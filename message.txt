@@ -1,11 +1,1 @@
-Create properly working base game
-
-Computer randomly picks number between 1-3
-1=Rock, 2=Paper, 3=Scissors
-Program asks user for String choice (case insensitive)
-Convert player choice into Int
-Subtract Computer Int from player Int
-Evaluate winner with table
-0 = Tie
--1 / 2 = Player winner
-1 / -2 = Computer winner
+Cleaned up formatting
