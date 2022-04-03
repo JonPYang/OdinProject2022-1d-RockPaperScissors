@@ -1,1 +1,1 @@
-Initialize index.html and styles.css
+Initialize javascript.js and test hello world
